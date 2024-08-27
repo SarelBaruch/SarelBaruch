@@ -8,5 +8,5 @@ My technical expertise extends to .NET, Node.js, and React, and I enjoy tackling
 
 Let's connect and explore new opportunities for collaboration!
 
-Linkedin: https://www.linkedin.com/in/sarel-baruch
+Linkedin: https://www.linkedin.com/in/sarel-baruch  
 Email: sarelb25@gmail.com
